@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Darshan Jain</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A React Native developer</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
